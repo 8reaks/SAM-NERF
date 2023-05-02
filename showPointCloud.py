@@ -86,5 +86,5 @@ def print_img(filename):
 
 
 if __name__ == '__main__':
-    file_name = 'checkpoints/cmesh005000.ply'
+    file_name = '3dfile/cmesh005000.ply'
     print_img(file_name)
