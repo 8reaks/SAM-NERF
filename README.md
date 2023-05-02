@@ -8,7 +8,8 @@ Trained for 070000 iterations
 * ![Image text](https://github.com/HoneyBreaks/SAM-NERF/blob/67acc5e44e0e6ac037be3efd48a001f6906b9d33/img-folder/SN4.png)
 ## Implement the SAM with one-hot prompt generator:
 * Text Prompt: "table"
-* Generated masked images ![Image text](https://github.com/HoneyBreaks/SAM-NERF/blob/67acc5e44e0e6ac037be3efd48a001f6906b9d33/img-folder/SN3.png)
+* Generated masked images 
+* ![Image text](https://github.com/HoneyBreaks/SAM-NERF/blob/67acc5e44e0e6ac037be3efd48a001f6906b9d33/img-folder/SN3.png)
 
 ## Disable semantic in nerf and train with masked images:
 Trained for 005000 iterations
